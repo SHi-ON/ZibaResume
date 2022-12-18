@@ -31,8 +31,7 @@
 \newcommand\contact[5]{%
     \centerline{%
         \makebox[0pt][c]{%
-            #1 {\large\textperiodcentered} #2
-           --\ #3 \ --\ #4\ --\ #5%
+            #1, #2 --\ #3 \ --\ #4\ --\ #5%
         }%
     }%
 }
